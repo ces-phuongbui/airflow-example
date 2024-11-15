@@ -1,0 +1,10 @@
+*.pyc
+data/
+logs/
+airflow.cfg
+airflow.db
+unittests.cfg
+venv
+.vscode
+__pycache__
+airflow-webserver.pid
